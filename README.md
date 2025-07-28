@@ -4,13 +4,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/aom-kapadia-422299255/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+  <a href="https://leetcode.com/u/kapadiaaom78/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/your-codechef" target="_blank">
+  <a href="https://www.codechef.com/users/aom123" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </p>
