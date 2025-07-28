@@ -39,10 +39,16 @@
 
 ---
 
-## 🧠 LeetCode Heatmap & Rating
+## 🧠 LeetCode Highlights
 
+### 🔥 Submission Heatmap
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=heatmap,contest" alt="LeetCode Heatmap and Rating" />
+  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=heatmap" alt="LeetCode Submission Heatmap" />
+</p>
+
+### 🏅 Contest Rating
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=contest" alt="LeetCode Contest Rating" />
 </p>
 
 ---
