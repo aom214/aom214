@@ -15,9 +15,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,mysql,docker,aws,nginx,git,vscode,github" height="35"/><br>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 </p>
 
 ---
@@ -41,14 +41,9 @@
 
 ## 🧠 LeetCode Highlights
 
-### 🔥 Submission Heatmap
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=heatmap" alt="LeetCode Submission Heatmap" />
-</p>
-
-### 🏅 Contest Rating
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=contest" alt="LeetCode Contest Rating" />
+  <img alt="LeetCode Heatmap" src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=heatmap" width="49%" style="display:inline-block;margin-right:4px;" />
+  <img alt="LeetCode Contest Rating" src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=contest" width="49%" style="display:inline-block;margin-left:4px;" />
 </p>
 
 ---
