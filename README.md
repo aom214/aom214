@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aom Kapadia</h1>
-<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Microservices | 🌱 Always Learning</p>
+<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Aplications | 🌱 Always Learning</p>
 
 <br/>
 
@@ -71,9 +71,9 @@
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🧠 [LeetCode](https://leetcode.com/your-leetcode/)  
-- ⚔️ [CodeChef](https://www.codechef.com/users/your-codechef)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aom-kapadia-422299255/)  
+- 🧠 [LeetCode](https://leetcode.com/u/kapadiaaom78/)  
+- ⚔️ [CodeChef](https://www.codechef.com/users/aom123)  
 
 ---
 
