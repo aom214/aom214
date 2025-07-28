@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aom Kapadia</h1>
-<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Aplications | 🌱 Always Learning</p>
+<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Applications | 🌱 Always Learning</p>
 
 <br/>
 
@@ -51,8 +51,6 @@
   > - Real-time messaging  
   > - Role-based access control  
   > - Decentralized decryption  
-
-*(Add more projects with links!)*
 
 ---
 
