@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Aom Kapadia</h1>
-<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Applications | 🌱 Always Learning</p>
+<p align="center">💻 Full Stack Developer | 🚀 Building Scalable Web Aplications | 🌱 Always Learning</p>
+
+<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aom-kapadia-422299255/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/kapadiaaom78/" target="_blank">
+  <a href="https://leetcode.com/your-leetcode/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/aom123" target="_blank">
+  <a href="https://www.codechef.com/users/your-codechef" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </p>
-
-<br/>
 
 ---
 
@@ -66,6 +66,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aom214&layout=compact&theme=github_dark" width="50%" />
 </p>
+
+---
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aom-kapadia-422299255/)  
+- 🧠 [LeetCode](https://leetcode.com/u/kapadiaaom78/)  
+- ⚔️ [CodeChef](https://www.codechef.com/users/aom123)  
 
 ---
 
