@@ -39,10 +39,10 @@
 
 ---
 
-## 🧠 LeetCode Activity
+## 🧠 LeetCode Heatmap & Rating
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/kapadiaaom78?theme=dark&ext=heatmap,contest" alt="LeetCode Heatmap and Rating" />
 </p>
 
 ---
